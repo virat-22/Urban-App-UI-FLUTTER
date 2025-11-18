@@ -2,7 +2,7 @@
 
 ## Authentication Required
 
-To push to `https://github.com/ranadheernakka/Urban-App-UI-Flutter.git`, you need to authenticate with the correct GitHub account.
+To push to `https://github.com/ranadheernakka/Urban-App-UI-Flutter-.git`, you need to authenticate with the correct GitHub account.
 
 ## Option 1: Using Personal Access Token (Recommended)
 
@@ -16,7 +16,7 @@ To push to `https://github.com/ranadheernakka/Urban-App-UI-Flutter.git`, you nee
 
 2. **Push using the token:**
    ```bash
-   git push https://YOUR_TOKEN@github.com/ranadheernakka/Urban-App-UI-Flutter.git main
+   git push https://YOUR_TOKEN@github.com/ranadheernakka/Urban-App-UI-Flutter-.git main
    ```
    Replace `YOUR_TOKEN` with your actual token.
 
@@ -70,7 +70,7 @@ If you don't have access to the repository, ask the repository owner (`ranadheer
 git remote -v
 
 # Update remote URL
-git remote set-url origin https://github.com/ranadheernakka/Urban-App-UI-Flutter.git
+git remote set-url origin https://github.com/ranadheernakka/Urban-App-UI-Flutter-.git
 
 # Push with authentication
 git push -u origin main
