@@ -99,5 +99,20 @@ urban-issue-app/
 - `GET /api/users/me` - Get current user profile
 - `GET /api/users/me/issues` - Get user's issues
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## License
-MIT 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Authors
+
+- **Urban Issue Reporting System Team**
+
+## Acknowledgments
+
+- Built with Flutter and Node.js
+- Uses MongoDB for data storage
+- Material Design for UI components 
