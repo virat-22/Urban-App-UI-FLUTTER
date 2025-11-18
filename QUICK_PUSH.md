@@ -2,7 +2,7 @@
 
 ## ✅ Your project is ready to push!
 
-**Repository:** `https://github.com/ranadheernakka/Urban-App-UI-Flutter-.git`  
+**Repository:** `https://github.com/virat-22/Urban-App-UI-FLUTTER.git`  
 **Branch:** `main`  
 **Commits ready:** 3 commits
 
@@ -40,11 +40,11 @@ git push origin main
 - ✅ Remote configured correctly
 - ✅ All files committed
 - ✅ 3 commits ready to push
-- ⏳ Waiting for authentication
+- ✅ Successfully pushed to GitHub!
 
-## 🔐 Authentication Note
+## ✅ Success!
 
-You're currently authenticated as `virat-22`, but need access as `ranadheernakka`. Use a Personal Access Token to push.
+Your code has been successfully pushed to: https://github.com/virat-22/Urban-App-UI-FLUTTER
 
 ## 📚 More Help
 
